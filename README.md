@@ -8,7 +8,7 @@ As a **Financial Manager**, I need actionable insights into the distribution and
 - How customers engage with banking services  
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](Bank_Dashboard_Screenshot.png)  
+![Dashboard Screenshot](Bank_Transactions_Dashboard.png)  
 *Replace with your actual screenshot file path.*
 
 ## Key Insights
@@ -23,7 +23,7 @@ As a **Financial Manager**, I need actionable insights into the distribution and
 - `Bank_Transactions_Original.csv` – Original CSV dataset  
 - `BankTransactions_Data_Preparation_Queries.sql` – SQL scripts used to prepare and query the data  
 - `Bank_Transactions_Dashboard.pbix` – Power BI interactive dashboard  
-- `Bank_Dashboard_Screenshot.png` – Screenshots and visualizations  
+- `Bank_Transactions_Dashboard.png` – Screenshots and visualizations  
 
 ## Tasks and Tools
 - **Data Preparation:** Imported CSV data into SQL Server and prepared it for analysis (ELT process)  
