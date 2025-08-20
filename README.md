@@ -9,7 +9,6 @@ As a **Financial Manager**, I need actionable insights into the distribution and
 
 ## Dashboard Screenshot
 ![Dashboard Screenshot](Bank_Transactions_Dashboard.png)  
-*Replace with your actual screenshot file path.*
 
 ## Key Insights
 - **Most Active Locations:** Fort Worth, Los Angeles, Charlotte, Oklahoma City, and Philadelphia/Tucson  
