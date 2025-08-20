@@ -1,11 +1,7 @@
 # Descriptive Analytics Project – 2023 Bank Transactions Analysis
 
 ## Problem Statement
-As a **Financial Manager**, I need actionable insights into the distribution and patterns of customer transactions in 2023. This includes analyzing transaction volumes, amounts, and usage trends across different **locations**, **transaction types**, and **service channels**. The goal is to understand:
-
-- Which branches and digital platforms drive the most activity  
-- Areas where performance is low  
-- How customers engage with banking services  
+"As a Financial Manager, I need actionable insights into the distribution and patterns of customer transactions in 2023. This includes analyzing transaction volumes, amounts, and usage trends across different locations, transaction types, and service channels. The goal is to understand which branches and digital platforms drive the most activity, identify areas where performance is low, and determine how customers engage with our banking services."
 
 ## Dashboard Screenshot
 ![Dashboard Screenshot](Bank_Transactions_Dashboard.png)  
